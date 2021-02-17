@@ -1,2 +1,2 @@
-# ssh-key-management
-Opensource tool for ssh lifecycle management for instances
+# Algorithms and Data structures in Python
+Sorting, Searching, Recursion, LinkedList implemented in python  
